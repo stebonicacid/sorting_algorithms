@@ -1,7 +1,3 @@
-/*
- * File: 1000-sort_deck.c
- */
-
 #include "deck.h"
 
 int _strcmp(const char *s1, const char *s2);
